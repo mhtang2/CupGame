@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/tubeMesh.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/LevelPrototyping/tubeMesh.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/LevelPrototyping/Meshes/tubeMesh.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/CupController.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/LevelPrototyping/TestWorld.umap",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/Cup.uasset",
+				"C:/Users/Leo/Documents/GitHub/CupGame/CupGame/Content/TopDown/Blueprints/NewUserDefinedStruct.uasset"
+			]
+		}
+	]
+}
