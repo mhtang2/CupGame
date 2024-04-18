@@ -1,7 +1,15 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+
+#IDK I AM BAD AT GITIGNORE
+*.log
+*.json
+*.ini
+
+
 # Compiled Object files
+
 *.slo
 *.lo
 *.o
