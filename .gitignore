@@ -83,3 +83,5 @@ DerivedDataCache/*
 CupGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 /CupGame/Saved
 /CupGame/Saved
+*.bin
+*.ush
